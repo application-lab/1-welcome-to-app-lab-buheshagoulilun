@@ -1,23 +1,12 @@
-# Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
 
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
+
+
 
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+Hello! My name is Peter and I was born also lived in Shanghai, China. I like playing badminton, travelling and playing computer games. Especially moba games which I can carry my teammates.
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+This summer I've done a lot of things. I travelled to Tokyo, Japan, Mogan Mountain, and Sanya. These are all magnificent tourist attractions and I got much relaxation from them. After the trips, I started learning how to drive and going to get my driving license this month. At the same time, I attended the Harvard Summit for Young Leader in China, learning from 3 different topics while making a lot of friends. The last activity I attended was Peer Mock Trial, which was also an unforgettable experience with 2 other NYUSH students, who have been good friends of mine.
 
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
+The positive change I've personally experienced as a result of applications of the Internet is Ali Pay, Wechat and Taobao, which all bring us huge convenience.
 
-
-
-
+For the negative impacts I've personally experienced. The online payment always has some problems and is not very secure, therefore we can strengthen the regulations in those apps. The second one is that most of the music apps' recommendation songs aren't very satisfactory, so it can be improved by editing the recommendation algorithm. Last one is when I watching movies through the browers, there're always many ads popping out which are very annoying.So we can mitigate this effect by establishing a more effective blocking system for the browers.
